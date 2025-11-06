@@ -1,3 +1,5 @@
+
+/*
 //let array1 = ["🍔" , "old wild west" , "bacon" , "cheddar",];
 //console.log(array1);
 let oggetto2 = {
@@ -7,11 +9,13 @@ let oggetto2 = {
     successo: true,
     rating: 4
 };
+
 //console.log(oggetto2);
 let giochi1 = {
     Multiplayer: "Minecraft",
     singolPlayer: "DarkSouls",
 };
+
 //console.log(giochi1);
 let azienda1 = {
     Nome:"Pinco palla srl",
@@ -22,6 +26,7 @@ let azienda1 = {
     Telefono:" 📱 +39 ........ ",
     Vendita:"computer 💻",
 };
+
 //console.log(azienda1.Nome);
 //console.log(azienda1.Luogo);
 //console.log(azienda1.Settore);
@@ -48,6 +53,7 @@ let utente1 = {
 //console.log(utente1.indirizzo.civico);
 // let oggetto1 = {};
 
+
 let utente2 = {
     nome: "alessandro",
     cognome: "ossena",
@@ -63,6 +69,7 @@ let utente2 = {
         azienda: "Caf Cisl",
         
     }
+
 
 };
 //Nome_Cognome_età_DataDiNascita
@@ -111,6 +118,8 @@ let utente2 = {
     //"weathercode": 2
   //}
 //}
+*/
+
 
 // Roma Piazza di Santa Francesca Romana 00186 Roma RM
 const lat = 41.890501;
